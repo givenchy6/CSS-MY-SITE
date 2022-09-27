@@ -1,9 +1,9 @@
 .top-container{
     background-color: azure;
-    height: 690x;
+    height: 540px;
     width: 100%;
-    border: 10px;
-    padding: 20px;
+    position: relative;
+    padding-top: 100px;
 }
 .middle-container{
     background-color: blueviolet;
@@ -18,8 +18,30 @@
 }
 body{
     margin: 0;
+    text-align: center;
+    font-family: fantasy;
 }
 h1{
     margin: 0%;
 }
 
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.mountain-image{
+    
+    position: relative;
+    top: 90px;
+}
