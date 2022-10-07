@@ -2,11 +2,11 @@
     background-color: azure;  
     border: solid;
 }
-.middle-container{
-    margin: 100px 0;
 
-    
+.middle-container{
+    margin: 100px 0;   
 }
+
 p{
     line-height: 2;
 }
@@ -53,8 +53,6 @@ h1{
     top: 50px;
 }
 
-.gift{    
-}
 h2{
 font-size: 2.5rem;
 color: skyblue;
